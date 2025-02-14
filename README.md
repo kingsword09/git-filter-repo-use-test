@@ -1,1 +1,1 @@
-git-filter-repo 指令移除历史 so 文件测试
+git-filter-repo 指令移除历史 *.so、*.a、*.dylib、*.dll 文件测试
